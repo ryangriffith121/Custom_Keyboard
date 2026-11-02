@@ -7997,6 +7997,16 @@
 		(uuid "00ee7a47-b746-432c-991d-c66ce29f558a")
 	)
 	(label "COL #12"
+		(at 179.07 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0100c569-8903-4886-8656-bc51a743da81")
+	)
+	(label "COL #12"
 		(at 199.39 77.3489 270)
 		(effects
 			(font
@@ -8036,6 +8046,16 @@
 		)
 		(uuid "12f75526-25f8-4f84-b099-6fe7b46ce7a4")
 	)
+	(label "COL #7"
+		(at 115.57 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "14420750-55db-4514-b6e1-0650f255f8d8")
+	)
 	(label "COL #16"
 		(at 189.23 77.47 270)
 		(effects
@@ -8065,6 +8085,16 @@
 			(justify right bottom)
 		)
 		(uuid "271bfe6c-779e-4bc9-b643-d1444f748284")
+	)
+	(label "COL #4"
+		(at 77.47 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2cdae36a-ffc1-4f4e-ba21-142ab41d09b9")
 	)
 	(label "ROW 3"
 		(at 35.56 24.13 180)
@@ -8106,6 +8136,16 @@
 		)
 		(uuid "395f2965-8290-428c-bfc6-5571e1a963ba")
 	)
+	(label "COL #6"
+		(at 102.87 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3d4d4c15-7f6b-407c-8eb3-0563ac4a1835")
+	)
 	(label "COL #4"
 		(at 222.25 77.47 270)
 		(effects
@@ -8126,6 +8166,16 @@
 		)
 		(uuid "474e3606-196c-4e15-9f82-6598ee161b93")
 	)
+	(label "COL #14"
+		(at 204.47 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4957df96-5be5-4727-a82f-95e384e83573")
+	)
 	(label "COL #8"
 		(at 212.09 77.47 270)
 		(effects
@@ -8135,6 +8185,36 @@
 			(justify right bottom)
 		)
 		(uuid "4ef229be-a153-4cba-a81a-b0cbd94e13c6")
+	)
+	(label "COL #2"
+		(at 52.07 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "573509a7-559b-4a56-800b-77030ed6c9f7")
+	)
+	(label "COL #8"
+		(at 128.27 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "588e0979-f5ea-4c8e-ac5c-5c6314c43752")
+	)
+	(label "COL #1"
+		(at 39.37 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "79c5dc1d-4290-494a-8173-1741bc504391")
 	)
 	(label "COL #1"
 		(at 229.87 77.47 270)
@@ -8166,6 +8246,16 @@
 		)
 		(uuid "8c8fb226-e6f8-4c57-8fad-01d8cd28f593")
 	)
+	(label "COL #5"
+		(at 90.17 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "942ace59-d66f-494a-b66b-92c08355473b")
+	)
 	(label "ROW 6"
 		(at 35.56 31.75 180)
 		(effects
@@ -8175,6 +8265,16 @@
 			(justify right bottom)
 		)
 		(uuid "95a8a43e-0d10-4525-b8cb-e27226737c1f")
+	)
+	(label "COL #3"
+		(at 64.77 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "96183ba4-94cc-44fc-97a9-d564a2ef26f2")
 	)
 	(label "COL #15"
 		(at 191.77 77.47 270)
@@ -8206,6 +8306,36 @@
 		)
 		(uuid "9dd12de1-9e53-4711-a8f4-7b7d82737cdb")
 	)
+	(label "COL #11"
+		(at 166.37 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a057bf00-f657-4f63-a6fe-666e6b100773")
+	)
+	(label "COL #9"
+		(at 140.97 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b1815bbc-e2ed-4f53-8c3d-984577cf94e8")
+	)
+	(label "COL #10"
+		(at 153.67 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b99aa91b-e5fa-4d8f-a5d4-c2957a7b9846")
+	)
 	(label "COL #5"
 		(at 219.71 77.47 270)
 		(effects
@@ -8226,6 +8356,16 @@
 		)
 		(uuid "c96b77f8-2857-4c38-858b-4bb958fa9591")
 	)
+	(label "COL #16"
+		(at 229.87 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cfdbb65d-fbb5-42cc-aefc-cc13044636b4")
+	)
 	(label "COL #3"
 		(at 224.79 77.47 270)
 		(effects
@@ -8236,6 +8376,16 @@
 		)
 		(uuid "d4d56dee-ca20-48c6-80c9-e02e4ebdaebc")
 	)
+	(label "COL #13"
+		(at 191.77 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dd72ecae-d157-4f06-aabb-52c948fd4681")
+	)
 	(label "COL #10"
 		(at 204.47 77.47 270)
 		(effects
@@ -8245,6 +8395,16 @@
 			(justify right bottom)
 		)
 		(uuid "dde4c940-3c00-478d-8f40-b2225fc9fbe9")
+	)
+	(label "COL #15"
+		(at 217.17 100.33 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f52969e2-335d-4514-9200-766f2deb07c8")
 	)
 	(label "COL #14"
 		(at 194.31 77.47 270)
